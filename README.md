@@ -6,9 +6,22 @@ Sebelum menggunakan metode LUCU dalam trading, penulis sebelumnya telah banyak m
 Maka dari itu, kata Trading Lucu saya gunakan sebagai jangkar atau pondasi saya untuk melakukan perdagangan di pasar keuangan, yang makna dan maksud sederhananya adalah menggunakan metode perdagangan dengan melihat tingkah laku dan pola harga yang baik, lalu mengukur harga dan nilainya dengan seksama agar mendapatkan momentum yang berkualitas, sehingga ketika saat transaksi order perdagangan sudah selesai menghasilkan cuan, maka proses yang menghasilkan cuan, hendaknya diulangi lagi cara seperti semula.
 
 ## Tabel Peta Trading Lucu
-| Level | Saldo  | Equitas | Ukuran   | Laba  | Rugi |
-| ----- | ------ | ------- | -------- | ----- | ---- |
-| 1     | $10    | $10     | 0.01     | $1    | $1   |
-| 2     | $11    | $11     | 0.01     | $1    | $1   |
+| Level | Saldo  | Equitas | Ukuran | Laba  | Rugi |
+| ----- | ------ | ------- | ------ | ----- | ---- |
+| 1     | $10    | $10     | 0.01   | $1    | $1   |
+| 2     | $11    | $11     | 0.01   | $1    | $1   |
+| 3     | $12    | $12     | 0.01   | $1    | $1   |
+| 4     | $13    | $13     | 0.01   | $1    | $1   |
+
+| level | saldo  | equitas  | ukuran | laba | rugi |
+| ----- | ------ | -------- | ------ | ---- | ---- |
+| `1`   | $10    | $10      |
+| `2`   | $11    | $11      |
+| `3`   | $12    | $12      |
+| `4`   | $13    | $13      |
+| `5`   | $14    | $14      |
+| `6`   | $15    | $15      |
+
+
 
 
