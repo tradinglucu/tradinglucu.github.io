@@ -1,3 +1,5 @@
 # ♜
 Trading adalah kata yang berasal dari bahasa Inggris yang artinya Jual Beli atau Perdagangan.
 LUCU adalah singkatan dari kata "Lihat Ukur Cuan Ulangi".
+Sebelum menggunakan metode LUCU dalam trading, penulis sebelumnya pempelajari banyak metode trading, yang akhirnya menggunakan METABRANI yaitu singkatan dari "Metode Ekonomi Tinggi Atas Bawah Rendah Awal Nilai Inti" yang rasanya kelihatan panjang, rumit dan membingungkan. Karena terlihat membingungkan bagi pemula, maka penyusun membuat sesuatu teori dan keterangan yang sebelumnya terasa rumit bagi pemula, maka penyusun menyederhanakan menjadi teori yang mudah dipahami dan dilaksanakan.
+Maka dari itu, kata Trading Lucu saya gunakan sebagai jangkar atau pondasi saya untuk melakukan perdagangan di pasar keuangan, yang makna sederhana menggunakan metode perdagangan dengan melihat harga yang baik, lalu mengukur harga dan nilainya dengan seksama, sehingga ketika transaksi sudah selesai menghasilkan cuan. Ketika sudah cuan ulangi cara seperti semula.
