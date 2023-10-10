@@ -1,1 +1,1 @@
-# tradinglucu.github.io
+# TradingLucu
