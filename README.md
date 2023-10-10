@@ -3,7 +3,7 @@
 Trading adalah kata yang berasal dari bahasa Inggris yang artinya Jual Beli atau Perdagangan.
 LUCU adalah singkatan dari kata "Lihat Ukur Cuan Ulangi".
 Sebelum menggunakan metode LUCU dalam trading, penulis sebelumnya telah banyak mempelajari berbagai macam metode trading, yang pada akhirnya suka menggunakan [METABRANI](https://metabrani.github.io).  Metode tersebut mungkin sedikit membingungkan bagi pemula, maka dari itu penyusun berusaha menyederhanakan menjadi teori dan metode yang mudah dipahami dan mudah dilaksanakan.
-Kata Trading Lucu saya gunakan sebagai peta, jangkar dan pondasi saya untuk melakukan perdagangan di pasar keuangan, yang mana makna dan maksud sederhananya adalah menggunakan metode perdagangan di pasar keuangan dengan melihat tingkah laku, karakter dan pola harga pasaran, lalu mengukur harga dan nilainya dengan seksama agar mendapatkan momentum yang berkualitas, sehingga ketika saat transaksi order perdagangan sudah selesai akan menghasilkan cuan yang maksimal, ketika sudah cuan, maka proses yang menyebabkan cuan tersebut hendaknya diulangi lagi dengan cara yang seperti semula.
+Kata Trading Lucu saya gunakan sebagai peta, jangkar dan pondasi kami untuk melakukan perdagangan di pasar keuangan. Makna dan maksudnya adalah bagaimana tata cara melakukan perdagangan di pasar mata uang dunia dengan mudah, hanya melakukan Lihat, Ukur, Cuan dan Ulangi.
 
 ## Tabel Peta Trading Lucu
 
@@ -23,21 +23,29 @@ Kata Trading Lucu saya gunakan sebagai peta, jangkar dan pondasi saya untuk mela
 | `12`  | $21    | $21      | 0.01   | $1   | $1   |
 | `13`  | $22    | $22      | 0.02   | $2   | $2   |
 | `14`  | $24    | $24      | 0.02   | $2   | $2   |
-| `15`  | $26    | $26      | 0.01   | $1   | $1   |
-| `16`  | $28    | $28      | 0.01   | $1   | $1   |
-| `17`  | $30    | $30      | 0.01   | $1   | $1   |
-| `18`  | $32    | $12      | 0.01   | $1   | $1   |
-| `19`  | $34    | $13      | 0.01   | $1   | $1   |
-| `20`  | $37    | $14      | 0.01   | $1   | $1   |
-| `21`  | $40    | $15      | 0.01   | $1   | $1   |
-| `22`  | $43    | $11      | 0.01   | $1   | $1   |
-| `23`  | $46    | $12      | 0.01   | $1   | $1   |
-| `24`  | $50    | $13      | 0.01   | $1   | $1   |
-| `25`  | $54    | $14      | 0.01   | $1   | $1   |
-| `26`  | $58    | $15      | 0.01   | $1   | $1   |
-| `27`  | $63    | $11      | 0.01   | $1   | $1   |
-| `28`  | $68    | $12      | 0.01   | $1   | $1   |
-| `29`  | $74    | $13      | 0.01   | $1   | $1   |
-| `30`  | $80    | $14      | 0.01   | $1   | $1   |
-| `32`  | $87    | $15      | 0.07   | $1   | $1   |
-
+| `15`  | $26    | $26      | 0.02   | $2   | $2   |
+| `16`  | $28    | $28      | 0.02   | $2   | $2   |
+| `17`  | $30    | $30      | 0.02   | $2   | $2   |
+| `18`  | $32    | $32      | 0.02   | $2   | $2   |
+| `19`  | $34    | $34      | 0.03   | $3   | $3   |
+| `20`  | $37    | $37      | 0.03   | $3   | $3   |
+| `21`  | $40    | $40      | 0.03   | $3   | $3   |
+| `22`  | $43    | $43      | 0.03   | $3   | $3   |
+| `23`  | $46    | $46      | 0.04   | $4   | $4   |
+| `24`  | $50    | $50      | 0.04   | $4   | $4   |
+| `25`  | $54    | $54      | 0.04   | $4   | $4   |
+| `26`  | $58    | $58      | 0.05   | $5   | $5   |
+| `27`  | $63    | $63      | 0.05   | $5   | $5   |
+| `28`  | $68    | $68      | 0.05   | $5   | $5   |
+| `29`  | $74    | $74      | 0.06   | $6   | $6   |
+| `30`  | $80    | $80      | 0.07   | $7   | $7   |
+| `31`  | $87    | $87      | 0.07   | $7   | $7   |
+| `32`  | $94    | $94      | 0.08   | $8   | $8   |
+| `33`  | $112   | $112     | 0.09   | $9   | $9   |
+| `34`  | $121   | $121     | 0.10   | $10  | $10  |
+| `35`  | $131   | $131     | 0.11   | $11  | $11  |
+| `36`  | $142   | $142     | 0.12   | $12  | $12  |
+| `37`  | $154   | $154     | 0.13   | $13  | $13  |
+| `38`  | $167   | $167     | 0.14   | $14  | $14  |
+| `39`  | $181   | $181     | 0.15   | $15  | $15  |
+| `40`  | $196   | $196     | 0.16   | $16  | $16  |
