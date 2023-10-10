@@ -1,3 +1,3 @@
 # ♜
 Trading adalah kata yang berasal dari bahasa Inggris yang artinya Jual Beli atau Perdagangan.
-Lucu adalah akronim dari kata Lihat ukur cuan ulangi
+Lucu adalah singkatan dari kata Lihat ukur cuan ulangi.
